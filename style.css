@@ -2,7 +2,7 @@
     margin: 100px;
 }
 .orange-bg{
-    background-color:  #fceae8;
+    background-image: linear-gradient(to bottom, #e0a6e7 0%, #fceae8 100%);
     border-radius: 10px;
 }
 .carousel-item{
@@ -38,4 +38,8 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
 }
