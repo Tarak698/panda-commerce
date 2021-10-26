@@ -2,7 +2,7 @@
     margin: 100px;
 }
 .orange-bg{
-    background-color: #fceae8;
+    background-color:  #fceae8;
     border-radius: 10px;
 }
 .carousel-item{
@@ -18,4 +18,24 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to bottom, #df7f02 0%, #ffb700 100%);
+    padding: 10px 30px;
+}
+.cat2{
+    background-image: linear-gradient(to bottom, #a1088c 0%, #ff00e9 100%);
+}
+.cat3{
+    background-image: linear-gradient(to bottom, #090979 0%, #00d4ff 100%);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
 }
